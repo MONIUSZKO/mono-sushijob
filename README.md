@@ -1,6 +1,3 @@
-# README.md
-## _mono-sushijob_ 
-
 ## Preview: https://youtu.be/JFb0yM1D7d8
 
 ## Configuration
