@@ -1,0 +1,41 @@
+	['sushi_salmon'] = {
+		label = 'Łosoś',
+		weight = 500,
+		stack = true,
+	},
+	
+	['sushi_salmon2'] = {
+		label = 'Filet z łososia',
+		weight = 300,
+		stack = true,
+	},
+
+	['sushi_nori'] = {
+		label = 'Liście nori',
+		weight = 50,
+		stack = true,
+	},
+
+	['sushi_rice'] = {
+		label = 'Ryż do sushi',
+		weight = 120,
+		stack  = true,
+	},
+
+	['sushi_rice2'] = {
+		label = 'Wypłukany Ryż do sushi',
+		weight = 100,
+		stack = true,
+	},
+
+	['sushi_rice3'] = {
+		label = 'Ugotowany Ryż do sushi',
+		weight = 100,
+		stack = true,
+	},
+
+	['sushi_sushi'] = {
+		label = 'Zestaw Sushi',
+		weight = 50,
+		stack = true,
+	},

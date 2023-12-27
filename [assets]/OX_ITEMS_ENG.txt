@@ -1,0 +1,41 @@
+	['sushi_salmon'] = {
+		label = 'Salmon',
+		weight = 500,
+		stack = true,
+	},
+	
+	['sushi_salmon2'] = {
+		label = 'Salmon fillet',
+		weight = 300,
+		stack = true,
+	},
+
+	['sushi_nori'] = {
+		label = 'Nori leaves',
+		weight = 50,
+		stack = true,
+	},
+
+	['sushi_rice'] = {
+		label = 'Sushi rice',
+		weight = 120,
+		stack  = true,
+	},
+
+	['sushi_rice2'] = {
+		label = 'Rinsed Sushi Rice',
+		weight = 100,
+		stack = true,
+	},
+
+	['sushi_rice3'] = {
+		label = 'Cooked Sushi Rice',
+		weight = 100,
+		stack = true,
+	},
+
+	['sushi_sushi'] = {
+		label = 'Sushi set',
+		weight = 50,
+		stack = true,
+	},
