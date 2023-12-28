@@ -9,8 +9,8 @@ local PlayerData = {}
 local HaveCar = false
 local veh = nil
 local CarHash = Config.CarName
-local Ped1Hash = GetHashKey(Config.PedModel)
-local Ped2Hash = GetHashKey(Config.PedModel2)
+local Ped1Hash = joaat(Config.PedModel)
+local Ped2Hash = joaat(Config.PedModel2)
 
 RegisterNetEvent('esx:playerLoaded')
 AddEventHandler('esx:playerLoaded', function(xPlayer)
@@ -104,8 +104,8 @@ CitizenClothesSet = function()
 end
 
 function SpawnGaragePed()  
-    RequestModel(GetHashKey(Config.PedModel))
-    while not HasModelLoaded(GetHashKey(Config.PedModel)) do
+    RequestModel(Ped1Hash)
+    while not HasModelLoaded(Ped1Hash) do
     Wait(1)
     end
 
@@ -121,8 +121,8 @@ function RemoveGaragePed()
 end
 
 function SpawnSellPed()  
-    RequestModel(GetHashKey(Config.PedModel2))
-    while not HasModelLoaded(GetHashKey(Config.PedModel2)) do
+    RequestModel(Ped2Hash)
+    while not HasModelLoaded(Ped2Hash) do
     Wait(1)
     end
 
@@ -481,7 +481,7 @@ function CookRiceZone()
 end
 
 function GaragePedZone()
-modelList = GetHashKey(Config.PedModel)
+modelList = Ped1Hash
 local OpTions = {
     {
     onSelect = SpawnCar,
@@ -508,7 +508,7 @@ exports.ox_target:addModel(modelList, OpTions)
 end
 
 function SellPedZone()
-    MoDeL = GetHashKey(Config.PedModel2)
+    MoDeL = Ped2Hash
     local settings = {
         {
             onSelect = function()
