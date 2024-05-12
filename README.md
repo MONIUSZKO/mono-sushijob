@@ -8,17 +8,17 @@
 
 <img src="https://cdn.discordapp.com/attachments/977673745340694578/1239250951353663548/conft.png?ex=66423de2&is=6640ec62&hm=999db1532e038efb0e4a4e78b12602bb192b046c7b180ebe4d2577b98a0a7d50&" alt="">
 
-<h3 align="left"> - Inject SQL file </h3>
-<h3 align="left"> - Go to "config/config.lua" </h3>
-<h3 align="left"> - Set all parameters </h3>
-<h3 align="left"> - Done!  </h3>
+<h4 align="left"> - Inject SQL file </h4>
+<h4 align="left"> - Go to "config/config.lua" </h4>
+<h4 align="left"> - Set all parameters </h4>
+<h4 align="left"> - Done!  </h4>
 
 ##
 
 <img src="https://cdn.discordapp.com/attachments/977673745340694578/1239252118377070733/depend.png?ex=66423ef9&is=6640ed79&hm=5a527dfacf1edb649ebc42d3bc07e45abf270fc80e0118630c9fab9bc3050c7d&" alt="">
 
-<h3 align="left"> - ox_lib </h3>
-<h3 align="left"> - ox_target </h3>
+<h5 align="left"> - ox_lib </h5>
+<h5 align="left"> - ox_target </h5>
 
 ## License
 >GPL-3.0 license
