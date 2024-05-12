@@ -4,10 +4,13 @@
 
 <h1 align="center"> https://streamable.com/aku1yd </h1>
 
-## Configuration
+##
 
-- Go to ```config/config.lua```
-- Set all parameters
+<img src="https://cdn.discordapp.com/attachments/977673745340694578/1239250951353663548/conft.png?ex=66423de2&is=6640ec62&hm=999db1532e038efb0e4a4e78b12602bb192b046c7b180ebe4d2577b98a0a7d50&" alt="">
+
+<h3> Inject SQL file </h3>
+<h3> Go to ```config/config.lua``` </h3>
+<h3> Set all parameters </h3>
 
 ## Dependencies
 - _ox_lib_,
