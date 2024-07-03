@@ -15,7 +15,7 @@
 
 ##
 
-<img src="https://cdn.discordapp.com/attachments/977673745340694578/1239252118377070733/depend.png?ex=66423ef9&is=6640ed79&hm=5a527dfacf1edb649ebc42d3bc07e45abf270fc80e0118630c9fab9bc3050c7d&" alt="">
+<img src="https://media.discordapp.net/attachments/977673745340694578/1239252118377070733/depend.png?ex=66862439&is=6684d2b9&hm=2eaa27f3815c0c1dda358b70dce92b9b9bc569f55472d877d298c0fee90f7a1a&=&format=webp&quality=lossless&width=550&height=86" alt="">
 
 <h5 align="left"> - ox_lib </h5>
 <h5 align="left"> - ox_target </h5>
