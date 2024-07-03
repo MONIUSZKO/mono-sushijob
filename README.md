@@ -15,7 +15,7 @@
 
 ##
 
-<img src="https://media.discordapp.net/attachments/977673745340694578/1239252118377070733/depend.png?ex=66862439&is=6684d2b9&hm=2eaa27f3815c0c1dda358b70dce92b9b9bc569f55472d877d298c0fee90f7a1a&=&format=webp&quality=lossless&width=550&height=86" alt="">
+<img src="https://media.discordapp.net/attachments/977673745340694578/1239252118377070733/depend.png" alt="">
 
 <h5 align="left"> - ox_lib </h5>
 <h5 align="left"> - ox_target </h5>
