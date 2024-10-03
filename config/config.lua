@@ -8,6 +8,9 @@ Config.Language    = 'PL'                            -- Ustaw język: ('PL' // '
 Config.Notify      = 'ESX'                           -- 'ESX' // 'OX' // 'OKOK' 
 Config.JobLabel    = 'sushi'                         -- don't touch
 Config.NotifyTime  = 5000                            -- Tutaj ustawiasz czas wyświetlania powiadomień // Here you set the display time for notifications
+Config.SellPrice   = 7                               -- Ustaw cenę sprzedaży // Set the selling price
+Config.UsingHook   = true                            -- Używać WebHooka? // Using WebHook?
+Config.HookURL     = ""                              -- URL
 
 -------------------------------------------------------
 -- Blips

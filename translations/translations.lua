@@ -31,6 +31,10 @@ Translations['PL'] = {
     ["DEL_TARGET"]   = 'Schowaj Pojazd',
 
     ["SELL_TARGET"]  = 'Sprzedaj sushi',
+
+    ["WEB_PLAYER"]   = 'GRACZ: ',
+    ["WEB_SELL"]     = ' SPRZEDAŁ ',
+    ["WEB_FOR"]      = ' ZA: ',
 }
 
 Translations['ENG'] = {
@@ -64,4 +68,8 @@ Translations['ENG'] = {
     ["DEL_TARGET"]   = 'Delete car',
 
     ["SELL_TARGET"]  = 'Sell Sushi',
+
+    ["WEB_PLAYER"]   = 'PLAYER: ',
+    ["WEB_SELL"]     = ' SOLD: ',
+    ["WEB_FOR"]      = ' FOR: ',
 }
